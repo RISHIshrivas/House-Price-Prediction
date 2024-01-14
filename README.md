@@ -43,5 +43,8 @@ You can install the required packages using:
 ```bash
 pip install -r requirements.txt
 ```
-git clone Home_Price_Prediction.ipynb
+git clone 
+```
+Home_Price_Prediction.ipynb
+```
 cd house-price-prediction
